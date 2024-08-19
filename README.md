@@ -68,7 +68,8 @@ Define the directory where your XML files are located
 
 directory = 'E:\SDU_University\PhD Project\Paper - KAN\Metadata\METADATA-PET-ALL'
 
-Run the code.
+Run the code. The 'pd' variable contains the information in a dataframe.
+
 Enjoy.
 
 ---
