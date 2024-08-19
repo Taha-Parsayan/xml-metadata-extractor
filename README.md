@@ -4,7 +4,7 @@
 Typically, MRI and PET images contain metadata within xml files. Each subject has it's own xml file and therefore, it would be time-consumming to open all the files one by one and read their information to report in an article.
 In here, I provided 2 python files to automatiically open and read the xml files for MRI and PET metadata within the related folders.
 
-*Extracted information for MRI:*
+### Extracted information for MRI:
 
 Manufacturer: The name of the manufacturer of the imaging equipment.
 
@@ -32,7 +32,8 @@ Coil: The type of coil used in the imaging.
 
 Image Resolution: A string combining Matrix X, Matrix Y, Matrix Z, Pixel Spacing X, Pixel Spacing Y, and Slice Thickness into a descriptive format.
 
-*Extracted information for PET:*
+
+### Extracted information for PET:
 
 Manufacturer: The name of the manufacturer of the imaging equipment.
 
