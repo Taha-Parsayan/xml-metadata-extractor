@@ -33,6 +33,16 @@ Slice Thickness: Thickness of each image slice.
 Image Resolution Format: Combines the number of rows, columns, slices, pixel spacings, and slice thickness into a single descriptive string.
 Mfg Model: The model of the imaging equipment.
 Reconstruction: The type of reconstruction used in the imaging process.
+---
+# How to use
+Put all the MRI and PET xml files in two separate folders. There are two codes provided in here, one for MRI and one for PET.
+Whitin the codes, set the address of the folders in:
+
+Define the directory where your XML files are located
+directory = 'E:\SDU_University\PhD Project\Paper - KAN\Metadata\METADATA-PET-ALL'
+
+Run the code.
+Enjoy.
 
 ---
 You are free to:
