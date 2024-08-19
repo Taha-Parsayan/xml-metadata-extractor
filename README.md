@@ -33,6 +33,7 @@ Coil: The type of coil used in the imaging.
 Image Resolution: A string combining Matrix X, Matrix Y, Matrix Z, Pixel Spacing X, Pixel Spacing Y, and Slice Thickness into a descriptive format.
 
 
+
 ### Extracted information for PET:
 
 Manufacturer: The name of the manufacturer of the imaging equipment.
