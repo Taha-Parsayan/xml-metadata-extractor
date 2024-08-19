@@ -41,6 +41,7 @@ Put all the MRI and PET xml files in two separate folders. There are two codes p
 within the codes, set the address of the folders in:
 
 Define the directory where your XML files are located
+
 directory = 'E:\SDU_University\PhD Project\Paper - KAN\Metadata\METADATA-PET-ALL'
 
 Run the code.
