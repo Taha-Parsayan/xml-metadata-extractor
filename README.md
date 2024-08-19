@@ -34,7 +34,7 @@ Image Resolution Format: Combines the number of rows, columns, slices, pixel spa
 Mfg Model: The model of the imaging equipment.
 Reconstruction: The type of reconstruction used in the imaging process.
 ---
-# How to use
+### How to use
 Put all the MRI and PET xml files in two separate folders. There are two codes provided in here, one for MRI and one for PET.
 Whitin the codes, set the address of the folders in:
 
